@@ -1,4 +1,4 @@
-var apiai = require('./node-modules/apiai/apiai');
+var apiai = require('./node_modules/apiai/apiai');
  
 var app = apiai("d896ce74632f4b49be94983f4c000f15");
  
